@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](ss-desktop.jpg)
-![](ss-mobile.jpg)
+![](ss-desktop-new.jpg)
+![](ss-mobile-new.jpg)
 
 ### Links
 
