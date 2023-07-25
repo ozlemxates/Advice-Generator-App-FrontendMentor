@@ -5,7 +5,7 @@ function addAdvice() {
         response => response.json()
     ).then(
         responseJson => {
-            let advice = responseJson.advice
+            let advice = responseJson.slip.advice
             adviceText.innerHTML = advice;
         }
     )
